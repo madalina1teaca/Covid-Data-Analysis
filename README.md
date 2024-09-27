@@ -3,11 +3,6 @@
 ## Introduction
 This project focuses on analyzing COVID-19 data to explore confirmed cases, deaths, and their relationships with various socio-economic factors, including insights drawn from the Worldwide Happiness Report. The analysis aims to visualize the impact of the pandemic across different countries and understand correlations with happiness metrics.
 
-![image](https://github.com/user-attachments/assets/98a06706-76f9-4b31-a118-104bd27ed01d)
-![image](https://github.com/user-attachments/assets/d71eea9b-5747-44b5-9b27-01132e968951)
-![image](https://github.com/user-attachments/assets/e3806b40-0f4c-4dcf-893d-26326739b90b)
-
-
 
 ## Project Structure
 
